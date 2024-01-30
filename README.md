@@ -3,9 +3,9 @@
 This project is designed to work with the robot Furhat. I developed this project for the Science Fair at my university.
 It includes the following features:
 	-Makes a joke when asked.
-	-Can play tic-tac-toe with 2 difficulty modes.\n
+	-Can play tic-tac-toe with 2 difficulty modes.
 	-Can guess the number chosen by the user by using binary search,
-and give the user the background information about how it works.
+	and give the user the background information about how it works.
 	-Can give a quiz about Koç University and AI.
 
 Contributors:
