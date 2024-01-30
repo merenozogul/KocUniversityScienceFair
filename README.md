@@ -8,6 +8,6 @@ It includes the following features:
 	and give the user the background information about how it works.  
 	-Can give a quiz about Koç University and AI.  
 
-Contributors:
-Thanks to Burak Erten for designing the gestures for the robot.
+Contributors:  
+Thanks to Burak Erten for designing the gestures for the robot.  
 Thanks to Kübra Rengin Çetin and Berk Coşar for finding the questions in the Quiz Game
