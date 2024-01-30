@@ -10,4 +10,6 @@ It includes the following features:
 
 Contributors:  
 Thanks to Burak Erten for designing the gestures for the robot.  
-Thanks to Kübra Rengin Çetin and Berk Coşar for finding the questions in the Quiz Game
+Thanks to Kübra Rengin Çetin and Berk Coşar for finding the questions in the Quiz Game  
+
+Anyone who wishes to try can use Virtual Furhat and run my project on virtual robot.  
